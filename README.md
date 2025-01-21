@@ -21,6 +21,6 @@ Este es un proyecto sencillo de **"Amigo Secreto"**, donde los usuarios pueden i
 ## 💻 Cómo Ejecutar el Proyecto
 
 1. **Clona este repositorio:**
-   ```bash
+   ```bash https://github.com/Isela-dev/Challenge_Amigo_Secreto_Alura_Latam.git
    git clone 🌟 Agradecimientos
 Gracias a Alura Latam por el excelente curso que me ayudó a mejorar mis habilidades en desarrollo web. 🙌
